@@ -7,6 +7,5 @@ const config = {
   "plugins": [
     "@typescript-eslint"
   ],
-  
 }
 module.exports = config;
